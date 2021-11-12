@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Adresse>
+    <Nachname>Meier</Nachname>
+    <Vorname>Willi</Vorname>
+    <Strasse>
+        <Name>Schlossallee</Name>
+        <Nr>34</Nr>
+    </Strasse>
+    <Ort name="Hamburg" plz="20001"/>
+</Adresse>

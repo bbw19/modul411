@@ -1,0 +1,419 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<issfcalendar xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:noNamespaceSchemaLocation='.\realtime.xsd'>
+
+<championship id="421">
+    <site>Athens</site>
+    <nation>GRE</nation>
+    <title>ISSF World Cup in all events and test event Olympic Games, Athens, Greece, 20 April - 1 May 2004</title>
+    <year>2004</year>
+    <startdate>2004-04-20</startdate>
+    <enddate>2004-05-01</enddate>
+
+    <event id="2477">
+        <date>2004-04-22</date>
+        <issftitle>Final 10m Air Rifle Women</issftitle>
+    	<athlete>
+    		<name>Jasna SEKARIC</name>
+    	</athlete>
+    	<athlete>
+    		<name>Vincent HANCOCK</name>
+    	</athlete>
+    </event>
+    <event id="2482">
+        <date>2004-04-22</date>
+        <issftitle>Final 10m Air Pistol Men</issftitle>
+    	<athlete>
+    		<name>Astonished Dahlby</name>
+    	</athlete>
+    	<athlete>
+    		<name>Giovanni Pellielo</name>
+    	</athlete>
+    </event>
+    <event id="2486">
+        <date>2004-04-23</date>
+        <issftitle>Final 10m Air Pistol Women</issftitle>
+    	<athlete>
+    		<name>Haley Dunn</name>
+    	</athlete>
+    	<athlete>
+    		<name>Elena Tkach</name>
+    	</athlete>
+    </event>
+    <event id="2489">
+        <date>2004-04-23</date>
+        <issftitle>Final Trap Men</issftitle>
+    </event>
+    <event id="2493">
+        <date>2004-04-24</date>
+        <issftitle>Final 10m Air Rifle Men</issftitle>
+    </event>
+    <event id="2496">
+        <date>2004-04-24</date>
+        <issftitle>Final Trap Women</issftitle>
+    </event>
+    <event id="2499">
+        <date>2004-04-25</date>
+        <issftitle>Final 25m Pistol Women</issftitle>
+    </event>
+    <event id="2502">
+        <date>2004-04-25</date>
+        <issftitle>Final Double Trap Men</issftitle>
+    </event>
+    <event id="2509">
+        <date>2004-04-26</date>
+        <issftitle>Final Double Trap Women</issftitle>
+    </event>
+    <event id="2512">
+        <date>2004-04-26</date>
+        <issftitle>Final 50m Rifle Prone Men</issftitle>
+    </event>
+    <event id="2515">
+        <date>2004-04-27</date>
+        <issftitle>Final 50m Pistol Men</issftitle>
+    </event>
+    <event id="2518">
+        <date>2004-04-27</date>
+        <issftitle>Final Skeet Women</issftitle>
+    </event>
+    <event id="2524">
+        <date>2004-04-28</date>
+        <issftitle>Final 50m Rifle 3 Positions Women</issftitle>
+    </event>
+    <event id="2527">
+        <date>2004-04-28</date>
+        <issftitle>Final 10m Running Target Men</issftitle>
+    </event>
+    <event id="2530">
+        <date>2004-04-29</date>
+        <issftitle>Final Rapid Fire Pistol Men</issftitle>
+    </event>
+    <event id="2536">
+        <date>2004-04-30</date>
+        <issftitle>Final 50m Rifle 3 Positions Men</issftitle>
+    </event>
+    <event id="2539">
+        <date>2004-04-30</date>
+        <issftitle>Final Skeet Men</issftitle>
+    </event>
+</championship>
+
+<championship id="443">
+    <site>Bangkok</site>
+    <nation>THA</nation>
+    <title>ISSF World Cup Bangkok Rifle, Pistol, Running Target</title>
+    <year>2004</year>
+    <startdate>2004-02-19</startdate>
+    <enddate>2004-02-27</enddate>
+
+    <event id="2550">
+        <date>2004-02-21</date>
+        <issftitle>Final 10m Air Rifle Men </issftitle>
+    </event>
+    <event id="2556">
+        <date>2004-02-22</date>
+        <issftitle>Final 10m Air Rifle Women </issftitle>
+    </event>
+    <event id="2558">
+        <date>2004-02-22</date>
+        <issftitle>Final 50m Pistol Men</issftitle>
+    </event>
+    <event id="2560">
+        <date>2004-02-22</date>
+        <issftitle>Final 25m Pistol Women</issftitle>
+    </event>
+    <event id="2567">
+        <date>2004-02-23</date>
+        <issftitle>Final 10m Air Pistol Men </issftitle>
+    </event>
+    <event id="2569">
+        <date>2004-02-23</date>
+        <issftitle>Final 50m Rifle Prone Men</issftitle>
+    </event>
+    <event id="2575">
+        <date>2004-02-24</date>
+        <issftitle>Final 50m Rifle 3 Positions Women</issftitle>
+    </event>
+    <event id="2582">
+        <date>2004-02-26</date>
+        <issftitle>Final 50m Rifle 3 Positions Men </issftitle>
+    </event>
+    <event id="2584">
+        <date>2004-02-26</date>
+        <issftitle>Final 25m Rapid Fire Pistol Men</issftitle>
+    </event>
+    <event id="2586">
+        <date>2004-02-24</date>
+        <issftitle>Final 10m Air Pistol Women</issftitle>
+    </event>
+    <event id="2587">
+        <date>2004-02-26</date>
+        <issftitle>Final 10m Running Target Men</issftitle>
+    </event>
+</championship>
+
+<championship id="444">
+    <site>Sydney</site>
+    <nation>AUS</nation>
+    <title>ISSF World Cup Sydney in all events, 28 February - 8 March 2004</title>
+    <year>2004</year>
+    <startdate>2004-02-28</startdate>
+    <enddate>2004-03-08</enddate>
+
+    <event id="2750">
+        <date>2004-03-01</date>
+        <issftitle>Final 10m Air Rifle Women</issftitle>
+    </event>
+    <event id="2755">
+        <date>2004-03-01</date>
+        <issftitle>Final Trap Women</issftitle>
+    </event>
+    <event id="2758">
+        <date>2004-03-02</date>
+        <issftitle>Final 10m Air Rifle Men</issftitle>
+    </event>
+    <event id="2760">
+        <date>2004-03-02</date>
+        <issftitle>Final 50m Pistol Men</issftitle>
+    </event>
+    <event id="2762">
+        <date>2004-03-02</date>
+        <issftitle>Final Trap Men</issftitle>
+    </event>
+    <event id="2765">
+        <date>2004-03-03</date>
+        <issftitle>Final 10m Air Pistol Men </issftitle>
+    </event>
+    <event id="2772">
+        <date>2004-03-04</date>
+        <issftitle>Final 10m Air Pistol Women </issftitle>
+    </event>
+    <event id="2774">
+        <date>2004-03-04</date>
+        <issftitle>Final 50m Rifle Prone Men</issftitle>
+    </event>
+    <event id="2779">
+        <date>2004-03-04</date>
+        <issftitle>Final Double Trap Men</issftitle>
+    </event>
+    <event id="2780">
+        <date>2004-03-04</date>
+        <issftitle>Final Double Trap Women</issftitle>
+    </event>
+    <event id="2782">
+        <date>2004-03-05</date>
+        <issftitle>Final 50m Rifle 3 Positions Women</issftitle>
+    </event>
+    <event id="2785">
+        <date>2004-03-05</date>
+        <issftitle>Final 25m Pistol Women </issftitle>
+    </event>
+    <event id="2792">
+        <date>2004-03-06</date>
+        <issftitle>Final Skeet Women</issftitle>
+    </event>
+    <event id="2794">
+        <date>2004-03-07</date>
+        <issftitle>Final 50m Rifle 3 Positions Men </issftitle>
+    </event>
+    <event id="2796">
+        <date>2004-03-07</date>
+        <issftitle>Final 10m Running Target Men </issftitle>
+    </event>
+    <event id="2798">
+        <date>2004-03-07</date>
+        <issftitle>Final 25m Rapid Fire Pistol Men </issftitle>
+    </event>
+    <event id="2800">
+        <date>2004-03-07</date>
+        <issftitle>Final Skeet Men</issftitle>
+    </event>
+</championship>
+
+<championship id="445">
+    <site>Cairo</site>
+    <nation>EGY</nation>
+    <title>ISSF World Cup Cairo, Shotgun Men, 10-19 April 2004</title>
+    <year>2004</year>
+    <startdate>2004-04-10</startdate>
+    <enddate>2004-04-19</enddate>
+
+    <event id="2601">
+        <date>2004-04-13</date>
+        <issftitle>Final Trap Men</issftitle>
+    </event>
+    <event id="2607">
+        <date>2004-04-15</date>
+        <issftitle>Final Double Trap Men</issftitle>
+    </event>
+    <event id="2616">
+        <date>2004-04-18</date>
+        <issftitle>Final Skeet Men</issftitle>
+    </event>
+</championship>
+
+<championship id="446">
+    <site>Americana</site>
+    <nation>BRA</nation>
+    <title>ISSF World Cup Americana, Shotgun Men, 28 May - 6 June 2004</title>
+    <year>2004</year>
+    <startdate>2004-05-28</startdate>
+    <enddate>2004-06-06</enddate>
+
+    <event id="2862">
+        <date>2004-06-02</date>
+        <issftitle>Final Double Trap Men</issftitle>
+    </event>
+    <event id="2871">
+        <date>2004-06-05</date>
+        <issftitle>Final Trap Men </issftitle>
+    </event>
+    <event id="2876">
+        <date>2004-05-31</date>
+        <issftitle>Final Skeet Men </issftitle>
+    </event>
+</championship>
+
+<championship id="452">
+    <site>Milan</site>
+    <nation>ITA</nation>
+    <title>ISSF World Cup Milan, Rifle, Pistol, Running Target, 14 - 21 June 2004</title>
+    <year>2004</year>
+    <startdate>2004-06-14</startdate>
+    <enddate>2004-06-21</enddate>
+
+    <event id="2813">
+        <date>2004-06-17</date>
+        <issftitle>Final 10m Air Pistol Women </issftitle>
+    </event>
+    <event id="2818">
+        <date>2004-06-18</date>
+        <issftitle>Final 50m Rifle Prone Men</issftitle>
+    </event>
+    <event id="2820">
+        <date>2004-06-18</date>
+        <issftitle>Final 50m Rifle 3 Positions Women</issftitle>
+    </event>
+    <event id="2823">
+        <date>2004-06-17</date>
+        <issftitle>Final 10m Air Pistol Men </issftitle>
+    </event>
+    <event id="2834">
+        <date>2004-06-16</date>
+        <issftitle>Final 10m Air Rifle Men </issftitle>
+    </event>
+    <event id="2836">
+        <date>2004-06-18</date>
+        <issftitle>Final 25m Pistol Women</issftitle>
+    </event>
+    <event id="2847">
+        <date>2004-06-16</date>
+        <issftitle>Final 10m Air Rifle Women </issftitle>
+    </event>
+    <event id="2851">
+        <date>2004-06-20</date>
+        <issftitle>Final 50m Pistol Men</issftitle>
+    </event>
+    <event id="2853">
+        <date>2004-06-20</date>
+        <issftitle>Final 25m Rapid Fire Pistol Men </issftitle>
+    </event>
+    <event id="2855">
+        <date>2004-06-20</date>
+        <issftitle>Final 50m Rifle 3 Positions Men</issftitle>
+    </event>
+    <event id="2859">
+        <date>2004-06-20</date>
+        <issftitle>Final 10m Running Target Men </issftitle>
+    </event>
+</championship>
+
+<championship id="472">
+    <site>Maribor- Pragersko</site>
+    <nation>SLO</nation>
+    <title>ISSF World Cup Final Shotgun, 23 - 28 September 2004</title>
+    <year>2004</year>
+    <startdate>2004-09-23</startdate>
+    <enddate>2004-09-28</enddate>
+
+    <event id="2976">
+        <date>2004-09-25</date>
+        <issftitle>Final Trap Women</issftitle>
+    </event>
+    <event id="2978">
+        <date>2004-09-25</date>
+        <issftitle>Final Skeet Women</issftitle>
+    </event>
+    <event id="2983">
+        <date>2004-09-26</date>
+        <issftitle>Final Trap Men</issftitle>
+    </event>
+    <event id="2984">
+        <date>2004-09-26</date>
+        <issftitle>Final Skeet Men</issftitle>
+    </event>
+    <event id="2990">
+        <date>2004-09-27</date>
+        <issftitle>Final Double Trap Men </issftitle>
+    </event>
+    <event id="2991">
+        <date>2004-09-27</date>
+        <issftitle>Final Double Trap Women</issftitle>
+    </event>
+</championship>
+
+<championship id="498">
+    <site>Bangkok</site>
+    <nation>THA</nation>
+    <title>ISSF World Cup Final Rifle, Pistol, Running Target, 25-31 October 2004</title>
+    <year>2004</year>
+    <startdate>2004-10-25</startdate>
+    <enddate>2004-10-31</enddate>
+
+    <event id="3000">
+        <date>2004-10-27</date>
+        <issftitle>Final 10m Air Pistol Men</issftitle>
+    </event>
+    <event id="3002">
+        <date>2004-10-27</date>
+        <issftitle>Final 25m Pistol Women</issftitle>
+    </event>
+    <event id="3004">
+        <date>2004-10-27</date>
+        <issftitle>Final 50m Rifle Prone Men</issftitle>
+    </event>
+    <event id="3007">
+        <date>2004-10-28</date>
+        <issftitle>Final 10m Air Pistol Women</issftitle>
+    </event>
+    <event id="3009">
+        <date>2004-10-28</date>
+        <issftitle>Final 50m Pistol Men</issftitle>
+    </event>
+    <event id="3011">
+        <date>2004-10-29</date>
+        <issftitle>Final 10m Running Target Men</issftitle>
+    </event>
+    <event id="3013">
+        <date>2004-10-29</date>
+        <issftitle>Final 50m Rifle 3 Positions Men</issftitle>
+    </event>
+    <event id="3015">
+        <date>2004-10-29</date>
+        <issftitle>Final 10m Air Rifle Women</issftitle>
+    </event>
+    <event id="3017">
+        <date>2004-10-29</date>
+        <issftitle>Final 25m Rapid Fire Pistol Men</issftitle>
+    </event>
+    <event id="3019">
+        <date>2004-10-30</date>
+        <issftitle>Final 10m Air Rifle Men</issftitle>
+    </event>
+    <event id="3021">
+        <date>2004-10-30</date>
+        <issftitle>Final 50m Rifle 3 Positions Women</issftitle>
+    </event>
+</championship>
+
+
+</issfcalendar>
