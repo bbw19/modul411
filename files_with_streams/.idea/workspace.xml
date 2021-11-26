@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3b962f19-ee73-4a71-bcd9-ad419cef8f69" name="Default Changelist" comment="current stuff">
+      <change afterPath="$PROJECT_DIR$/../stadtlauf/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stadtlauf/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stadtlauf/src/main/java/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rekursion/target/classes/Hanoi.class" beforeDir="false" afterPath="$PROJECT_DIR$/../rekursion/target/classes/Hanoi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xml/src/main/java/ChampionshipFinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../xml/src/main/java/ChampionshipFinder.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1zDwawwrTj0XwjHbCZ3XQ5ncRj9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Julien\Desktop\411\files_with_streams\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.OutputExampleScanner">
+    <configuration name="CapsLocker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="einstieg.CapsLocker" />
+      <module name="files_with_streams" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="einstieg.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OutputExampleScanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="einstieg.OutputExampleScanner" />
+      <module name="files_with_streams" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="einstieg.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.OutputExampleScanner" />
+        <item itemvalue="Application.CapsLocker" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3b962f19-ee73-4a71-bcd9-ad419cef8f69" name="Default Changelist" comment="" />
+      <created>1633696040936</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1633696040936</updated>
+      <workItem from="1633696045641" duration="683000" />
+      <workItem from="1633697130319" duration="1683000" />
+      <workItem from="1636721780367" duration="1521000" />
+      <workItem from="1637315891013" duration="5219000" />
+    </task>
+    <task id="LOCAL-00001" summary="current stuff">
+      <created>1636723238313</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1636723238313</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="current stuff" />
+    <option name="LAST_COMMIT_MESSAGE" value="current stuff" />
+  </component>
+</project>

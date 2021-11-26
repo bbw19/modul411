@@ -15,7 +15,7 @@ class ChampoinshipFinder {
 
         Document doc = null;
 
-        File f = new File("src/main/resources/realtime.xml");
+        File f = new File("src/main/resources/newtest.xml");
 
         try {
             // Das Dokument erstellen
