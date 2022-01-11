@@ -50,7 +50,7 @@ class CSVFileHandler {
     }
 
     public void writeFile(ArrayList<Path> list) throws IOException {
-        writer = Files.newBufferedWriter(Paths.get("src/main/resources/users-with-header.csv"));
+        writer = Files.newBufferedWriter(Paths.get("src/main/resources/solution.csv"));
         writer.write("Cost,Path");
         writer.newLine();
 

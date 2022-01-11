@@ -3,7 +3,7 @@ import java.io.*;
 
 class TSP
 {
-    static ArrayList<Path> findHamiltonianCycle(int[][] distance, boolean[] visitCity, int currPos, int cities, int count, int cost, Path path, ArrayList<Path> solution)
+    static ArrayList<Path> findCost(int[][] distance, boolean[] visitCity, int currPos, int cities, int count, int cost, Path path, ArrayList<Path> solution)
     {
         if (count == cities && distance[currPos][0] > 0)
         {
@@ -26,7 +26,7 @@ class TSP
                 path.addEdge(edge);
                 // Mark as visited
                 visitCity[i] = true;
-                findHamiltonianCycle(distance, visitCity, i, cities, count + 1, cost + distance[currPos][i], path, solution);
+                findCost(distance, visitCity, i, cities, count + 1, cost + distance[currPos][i], path, solution);
                 path = new Path();
                 // Mark ith node as unvisited
                 visitCity[i] = false;
@@ -57,7 +57,7 @@ class TSP
         ArrayList<Path> solution = new ArrayList<Path>();
 
         // call findHamiltonianCycle() method that returns the minimum weight Hamiltonian Cycle
-        solution = findHamiltonianCycle(distance, visitCity, 0, cities, 1, 0, path, solution);
+        solution = findCost(distance, visitCity, 0, cities, 1, 0, path, solution);
         // print the minimum weighted Hamiltonian Cycle
         Collections.sort(solution);
         ArrayList<Path> top3 = new ArrayList<Path>();
